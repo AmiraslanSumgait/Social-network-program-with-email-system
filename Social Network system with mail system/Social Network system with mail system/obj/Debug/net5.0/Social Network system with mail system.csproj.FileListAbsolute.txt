@@ -1,0 +1,16 @@
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\bin\Debug\net5.0\Social Network system with mail system.exe
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\bin\Debug\net5.0\Social Network system with mail system.deps.json
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\bin\Debug\net5.0\Social Network system with mail system.runtimeconfig.json
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\bin\Debug\net5.0\Social Network system with mail system.runtimeconfig.dev.json
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\bin\Debug\net5.0\Social Network system with mail system.dll
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\bin\Debug\net5.0\ref\Social Network system with mail system.dll
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\bin\Debug\net5.0\Social Network system with mail system.pdb
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\obj\Debug\net5.0\Social Network system with mail system.csproj.AssemblyReference.cache
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\obj\Debug\net5.0\Social Network system with mail system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\obj\Debug\net5.0\Social Network system with mail system.AssemblyInfoInputs.cache
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\obj\Debug\net5.0\Social Network system with mail system.AssemblyInfo.cs
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\obj\Debug\net5.0\Social Network system with mail system.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\obj\Debug\net5.0\Social Network system with mail system.dll
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\obj\Debug\net5.0\ref\Social Network system with mail system.dll
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\obj\Debug\net5.0\Social Network system with mail system.pdb
+C:\Users\Amiraslan\source\repos\Social Network system with mail system\Social Network system with mail system\obj\Debug\net5.0\Social Network system with mail system.genruntimeconfig.cache

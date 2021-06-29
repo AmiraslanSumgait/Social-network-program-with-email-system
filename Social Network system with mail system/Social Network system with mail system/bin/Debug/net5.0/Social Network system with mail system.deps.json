@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Social Network system with mail system/1.0.0": {
+        "runtime": {
+          "Social Network system with mail system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Social Network system with mail system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
